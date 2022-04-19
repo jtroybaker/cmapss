@@ -1,3 +1,3 @@
 # cmapss
 
-To see the current eploratory analysis, open exploration.ipynb.
+To see the current exploratory analysis, open exploration.ipynb.
